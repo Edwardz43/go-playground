@@ -56,6 +56,7 @@ func main() {
 	defer c.Close()
 
 	process(c, interrupt)
+
 }
 
 func process(c *websocket.Conn, interrupt chan os.Signal) {

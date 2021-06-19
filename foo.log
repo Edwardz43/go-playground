@@ -1,5 +1,0 @@
-2020-03-18T02:07:30.681+0800	DEBUG	playground/main.go:66	constructed a logger
-2020-03-18T02:07:53.268+0800	DEBUG	playground/main.go:67	constructed a logger
-{"level":"debug","ts":1584468612.8759704,"caller":"playground/main.go:67","msg":"constructed a logger"}
-{"level":"debug","ts":1584712787.4510233,"caller":"playground/main.go:67","msg":"constructed a logger"}
-{"level":"debug","ts":1584713052.2974606,"caller":"playground/main.go:67","msg":"constructed a logger"}
